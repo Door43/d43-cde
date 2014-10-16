@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cde:home|Door43 (cde)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cde|d43-cde repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cde/archive/master.zip|d43-cde.zip]]
+
+**Recent Changes**
+{{changes>ns = cde}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cde|Ethnologue data]]
+
